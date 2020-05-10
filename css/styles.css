@@ -1,0 +1,45 @@
+body{
+  background-color: #75daad;
+  font-family:"montserrat";
+}
+hr{
+  border-color: #3a3535;
+  border-style: none;
+  border-top-style:dotted;
+  border-spacing: 150px;
+  border-width:5px;
+  width:4%
+}
+h1{
+  color: #54123b;
+}
+h3{
+  color: #010038;
+  text-decoration: underline;
+  text-align: center:
+}
+img{
+  size:175px;
+
+}
+h4{
+    color: #010038;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.images
+{
+  width:250px;
+}
+.image{
+  width:320px;
+}
+.heading{
+    color: #54123b;
+    font-family:cursive;
+    font-size: 2.5rem;
+}
+p{
+  text-align: left;
+  font-size: 1rem;
+}
